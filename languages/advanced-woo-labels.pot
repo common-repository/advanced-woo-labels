@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Woo Labels\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+
+msgid "Settings"
+msgstr ""
+
+msgid "Advanced Woo Labels plugin can't be activated because you already activate PRO plugin version."
+msgstr ""
+
+msgid "Advanced Woo Labels plugin is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+msgid "All Labels"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Label conditions"
+msgstr ""
+
+msgid "Label settings"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "No label to duplicate has been supplied!"
+msgstr ""
+
+msgid "Label creation failed, could not find original label: %s"
+msgstr ""
+
+msgid "(copy)"
+msgstr ""
+
+msgid "Label creation failed, could not create label duplicate: %s"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Duplicate label"
+msgstr ""
+
+msgid "No shipping class"
+msgstr ""
+
+msgid "percents"
+msgstr ""
+
+msgid "amount"
+msgstr ""
+
+msgid "(no title)"
+msgstr ""
+
+msgid "Super Admin"
+msgstr ""
+
+msgid "Visitor ( not logged-in )"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "all time"
+msgstr ""
+
+msgid "last 24 hours"
+msgstr ""
+
+msgid "last 7 days"
+msgstr ""
+
+msgid "last month"
+msgstr ""
+
+msgid "last year"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Label position"
+msgstr ""
+
+msgid "Hook"
+msgstr ""
+
+msgid "Hook priority"
+msgstr ""
+
+msgid "Add hook"
+msgstr ""
+
+msgid "Remove hook"
+msgstr ""
+
+msgid "Hook name"
+msgstr ""
+
+msgid "Add new rule"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Remove rule"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "To display the label product must match all of the following conditions."
+msgstr ""
+
+msgid "Add 'or' group"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Product name"
+msgstr ""
+
+msgid "Main Settings"
+msgstr ""
+
+msgid "Show default 'sale' label"
+msgstr ""
+
+msgid "Show or not default WooCommerce 'sale' label."
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Show default 'out-of-stock' label"
+msgstr ""
+
+msgid "Show or not default WooCommerce 'out-of-stock' label."
+msgstr ""
+
+msgid "Show for single product"
+msgstr ""
+
+msgid "Show the product labels for product detail pages. This overwrites settings inside single label display rules."
+msgstr ""
+
+msgid "Labels alignment"
+msgstr ""
+
+msgid "Alignment of several labels inside one product."
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Labels distance (px)"
+msgstr ""
+
+msgid "Distance between several labels inside one product position."
+msgstr ""
+
+msgid "Max. number of labels per product"
+msgstr ""
+
+msgid "Maximal number of labels over one product."
+msgstr ""
+
+msgid "Max. number of labels per position"
+msgstr ""
+
+msgid "Hooks"
+msgstr ""
+
+msgid "Change display hooks"
+msgstr ""
+
+msgid "Change hooks that used to display labels on different product positions."
+msgstr ""
+
+msgid "equal to"
+msgstr ""
+
+msgid "not equal to"
+msgstr ""
+
+msgid "greater or equal to"
+msgstr ""
+
+msgid "less or equal to"
+msgstr ""
+
+msgid "Label text"
+msgstr ""
+
+msgid "supports variables"
+msgstr ""
+
+msgid "regular price"
+msgstr ""
+
+msgid "sale price"
+msgstr ""
+
+msgid "discount percentage"
+msgstr ""
+
+msgid "discount amount"
+msgstr ""
+
+msgid "days left for sale"
+msgstr ""
+
+msgid "currency symbol"
+msgstr ""
+
+msgid "product SKU"
+msgstr ""
+
+msgid "product quantity"
+msgstr ""
+
+msgid "new line"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Position type"
+msgstr ""
+
+msgid "On image"
+msgstr ""
+
+msgid "Before title"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Left top"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Left center"
+msgstr ""
+
+msgid "Center center"
+msgstr ""
+
+msgid "Right center"
+msgstr ""
+
+msgid "Left bottom"
+msgstr ""
+
+msgid "Center bottom"
+msgstr ""
+
+msgid "Right bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Set custom styles"
+msgstr ""
+
+msgid "Label color"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Font size (px)"
+msgstr ""
+
+msgid "Font style"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Bold italic"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Padding (em)"
+msgstr ""
+
+msgid "Margin (px)"
+msgstr ""
+
+msgid "Custom css"
+msgstr ""
+
+msgid "Stock status"
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Sale discount"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Shipping class"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Reviews count"
+msgstr ""
+
+msgid "Is on sale"
+msgstr ""
+
+msgid "Is featured"
+msgstr ""
+
+msgid "Has product image"
+msgstr ""
+
+msgid "Has gallery"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Product category"
+msgstr ""
+
+msgid "Product tag"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User role"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Page language"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Active sources"
+msgstr ""
+
+msgid "Change order by drag&drop"
+msgstr ""
+
+msgid "Deactivated sources"
+msgstr ""
+
+msgid "Excluded from search results"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Add Label"
+msgstr ""
+
+msgid "Add New Label"
+msgstr ""
+
+msgid "Edit Label"
+msgstr ""
+
+msgid "New Label"
+msgstr ""
+
+msgid "View Label"
+msgstr ""
+
+msgid "Search Label"
+msgstr ""
+
+msgid "No Label found"
+msgstr ""
+
+msgid "No Labels found in Trash"
+msgstr ""
